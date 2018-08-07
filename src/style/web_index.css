@@ -1,0 +1,93 @@
+.el-form--inline .el-form-item__content {
+  display: inline-block;
+  vertical-align: middle;
+}
+.container{
+  height:100%;
+  display: flex;
+  flex-direction: column;
+  background: #EDEEF2;
+
+}
+.user-header{
+  background: #2c2f43;
+  padding:8px;
+  font-size:12px;
+  color:#fff;
+  text-align: right;
+ /* padding-right:19%;*/
+}
+.line{
+  display: inline-block;
+  width: 1px;
+  background: #fff;
+  height: 9px;
+  margin: 0 10px;
+}
+.login-out{
+  cursor: pointer;
+}
+.main-div{
+  background: #fff;
+}
+.choose{
+  margin:20px  auto 10px auto;
+  padding:35px 20px 20px 20px;
+}
+.table-div{
+  margin:0px  auto 10px auto;
+  padding:35px 20px 20px 20px;
+  flex:1;
+}
+main{
+  flex:1;
+}
+header{
+  padding:30px;
+}
+footer{
+  padding:35px;
+}
+.main-box{
+  height:100%;
+  width:100%;
+  margin:0 auto;
+  display: flex;
+  flex-direction: column;
+}
+
+
+header{
+  background: #fff;
+  padding:19px 0;
+}
+.container_header{
+  line-height:1;
+  border-bottom:transparent;
+
+}
+.new-order{
+  text-align: left;
+}
+.new-order span{
+  display: inline-block;
+  padding:7px 30px;
+  border-radius: 5px;
+  border:1px solid #409EFF;
+  color:#409EFF;
+}
+.new-order span i{
+  margin-right:5px;
+}
+.con_width{
+  width:100%;
+}
+/*.list-from .el-select>.el-input {
+  display: block;
+  width: 200px;
+}*/
+.my-order{
+  color:#fff;
+  margin:0 10px;
+  text-decoration: none;
+}
