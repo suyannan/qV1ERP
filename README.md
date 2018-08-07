@@ -1,11 +1,10 @@
 # qV1ERP
 
-> qV1ERP
+> qV1ERP,一个为B2B平台做的销售管理系统，包含导出Excel、层层审核等功能（vue + Element Ui）
 
 ## Build Setup
 
 ``` bash
-#一个为B2B平台做的销售管理系统，包含导出Excel、层层审核等功能（vue + Element Ui）
 # install dependencies
 npm install
 
